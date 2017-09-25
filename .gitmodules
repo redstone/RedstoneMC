@@ -1,0 +1,3 @@
+[submodule "Glowstone"]
+	path = Glowstone
+	url = https://github.com/GlowstoneMC/Glowstone.git
